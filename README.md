@@ -31,7 +31,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contributions
 <p align="center">
   <img src="https://github.com/wamalwaabiud/wamalwaabiud/blob/output/github-contribution-grid-snake.svg" />
 </p>
