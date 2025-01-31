@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Wamalwaabiud
-- 👀 I’m interested in in any open source project that can help me improve my skills
-- 🌱 I’m looking for help with finding a job as a Full-Stack Software Engineer or a Full-Stack Web Developer in remote
-- 💞️ I’m looking to collaborate with anyone 
-- 📫 How to reach me: https://www.linkedin.com/in/abiud-wamalwa-b38680277  :https://www.facebook.com/profile.php?id=100084568450857 : abiudwamalwa1979@gmail.com 
--⚡ Fun fact: I love to create humorous memes with code
-<!---
-Wamalwaabiud/Wamalwaabiud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm Abiud Wamalwa 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+</p>
+
+<h2 align="center">🧑‍💻 My Information</h2>
+
+```go
+package main
+
+import "fmt"
+
+type Person struct {
+    name       string
+    username   string
+    age        int
+    hobbies    []string
+    job        string
+}
+
+func main() {
+    me := Person{
+        name:     "Abiud Wamalwa",
+        username: "wamalwaabiud",
+        age:      21,
+        job:      "Software Developer & Data Scientist",
+        hobbies:  []string{"coding", "RnB music", "problem-solving", "tech research"},
+    }
+
+    fmt.Println(me)
+}
